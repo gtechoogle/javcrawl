@@ -1,0 +1,11 @@
+{
+  "name": "webcrawl",
+  "version": "1.0.0",
+  "description": "Use nodejs to crawl the JavBus content",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gtechoogle",
+  "license": "ISC"
+}
