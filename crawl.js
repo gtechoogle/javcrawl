@@ -37,7 +37,7 @@ function openPage(url) {
             openPage(base_url + next)
         } else {
             console.log('============================')
-            console.log(error)
+            console.log(error);
         }
     })
 }
